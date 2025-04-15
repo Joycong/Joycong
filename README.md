@@ -36,8 +36,8 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| 🧏‍♂️ **수어 번역기** | MediaPipe 기반의 실시간 수어 인식 및 번역 | [👉 바로가기](https://github.com/Joycong/SignLanguageTranslator) |
-| 🔫 **Jewelry Collector FPS** | Unity 기반 1인 개발 수집형 FPS 게임 | [👉 바로가기](https://github.com/Joycong/FPS_Game_Project) |
+| 🧏‍♂️ **수어 번역기** | MediaPipe 기반의 실시간 수어 인식 및 번역 | [👉 바로가기](https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe) |
+| 🔫 **Jewelry Collector FPS** | Unity 기반 1인 개발 수집형 FPS 게임 | [👉 바로가기](https://github.com/Joycong/Jewelry-Collector-FPS) |
 | 🦖 **Dino Game AI** | 강화학습 기반 공룡 자동 점프 봇 (업로드 예정) | ✨ Coming Soon... |
 
 ---
