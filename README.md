@@ -1,5 +1,5 @@
 
-<h3 align="center">✨ Hello, GitHub traveler! 당신의 방문을 디버깅 중입니다... 성공적으로 연결되었습니다! 😊</h3>
+<h3 align="center">✨ Hello, GitHub traveler! 당신의 방문을 환영합니다! 😊</h3>
 
 
 <!-- 이름 및 소개 -->
