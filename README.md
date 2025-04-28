@@ -60,15 +60,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joycong&show_icons=true&theme=tokyonight)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joycong&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
