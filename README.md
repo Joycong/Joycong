@@ -47,7 +47,7 @@
 
 | 프로젝트 | 설명 | 썸네일 |
 |----------|------|--------|
-| 🧏‍♂️ [수어 번역기](https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe) | MediaPipe 기반의 실시간 수어 인식 및 번역 프로그램입니다. 지문자 및 특정 감정 표현이 가능합니다.<br><sub>🛠 Python, MediaPipe, PyTorch, OpenCV</sub> | <img src="https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe/blob/main/docs/시연예시.jpg?raw=true" width="180"/> <img src="https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe/blob/main/docs/실행_결과_예시1.gif?raw=true" width="260"/> |
+| 🧏‍♂️ [한국 수어 번역기](https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe) | MediaPipe 기반의 실시간 수어 인식 및 번역 프로그램입니다. 지문자 및 특정 감정 표현이 가능합니다.<br><sub>🛠 Python, MediaPipe, PyTorch, OpenCV</sub> | <img src="https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe/blob/main/docs/시연예시.jpg?raw=true" width="180"/> <img src="https://github.com/Joycong/Sign-Language-Translation-Program-with-Mediapipe/blob/main/docs/실행_결과_예시1.gif?raw=true" width="260"/> |
 | 🔫 [Jewelry Collector FPS](https://github.com/Joycong/Jewelry-Collector-FPS) | 보석을 수집하며 다양한 무기를 사용하는 1인칭 슈팅 게임입니다. 적 AI, 아이템, 무기 교체, UI 등 다양한 기능을 구현했습니다.<br><sub>🛠 Unity, C#</sub> | <img src="https://github.com/Joycong/Jewelry-Collector-FPS/blob/main/docs/gifs/gameplay2.gif?raw=true" width="220"/> <img src="https://github.com/Joycong/Jewelry-Collector-FPS/blob/main/docs/gifs/weapon-change.gif?raw=true" width="220"/> |
 | 🦖 [Dino AI Bot](https://github.com/Joycong/dino-ai-bot) | Chrome 공룡 게임을 강화학습으로 자동화한 AI 봇입니다. YOLO를 활용한 장애물 인식과 DQN을 활용한 학습을 포함합니다.<br><sub>🛠 Python, OpenCV, YOLOv5, PyTorch</sub> |<img src="https://github.com/Joycong/dino-ai-bot/blob/main/docs/yolo_detection_demo.gif?raw=true" width="450"/> |
 
