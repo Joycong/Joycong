@@ -60,3 +60,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joycong&show_icons=true&theme=tokyonight" alt="Joycong's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joycong&layout=compact&theme=tokyonight" alt="Joycong's Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joycong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
