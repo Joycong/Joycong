@@ -9,7 +9,7 @@ AI, CV, 프론트·백엔드, CI/CD 기술을 두루 배우며 성장 중입니�
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=만나서+반갑습니다+🤗;인공지능,+CV+공부중입니다+👨‍💻;게임+개발,+파이썬+프로젝트+진행중입니다+:);JAVA 복습중입니다🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=만나서+반갑습니다+🤗;인공지능,+CV+공부중입니다+👨‍💻;신입+개발자로서+적응중입니다+:);JAVA+복습중입니다🤖" alt="Typing SVG" />
 </p>
 
 
