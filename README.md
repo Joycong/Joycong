@@ -1,25 +1,16 @@
 
-<h3 align="center">✨ Hello, GitHub traveler! 당신의 방문을 환영합니다! 😊</h3>
+<h3 align="center">당신의 방문을 환영합니다.</h3>
 
 
 <!-- 이름 및 소개 -->
-<h1 align="center">안녕하세요! 전우진입니다 👋</h1>
+<h1 align="center">안녕하세요. 전우진입니다</h1>
 <p align="center">사용성과 구조를 함께 고민하는 신입 개발자입니다.<br>
-AI, CV 기술을 두루 배우며 성장 중입니다.</p>
+AI, 아키텍처 기술을 두루 배우며 성장 중입니다.</p>
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=만나서+반갑습니다+🤗;인공지능,+CV+공부중입니다+👨‍💻;신입+개발자로서+적응중입니다+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=만나서+반갑습니다.;인공지능,+아키텍처+공부중입니다;" alt="Typing SVG" />
 </p>
-
-
----
-
-### 🧠 소개
-- 🎓 정보통신공학 전공 (국립한밭대학교 졸업)
-- 💻 Python, C, C#, Java, JavaScript를 사용한 다양한 프로젝트 경험
-- 🤖 **인공지능**, **컴퓨터 비전**, **게임 개발** 분야 흥미
-- 👻 인공지능 기초 학습중!
 
 ---
 
